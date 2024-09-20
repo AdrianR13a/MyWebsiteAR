@@ -1,0 +1,33 @@
+.Foot {
+    background: gray;
+    width: 100%;
+    height: 10%;
+    position: absolute;
+    background-image: linear-gradient(gray, white);
+    bottom: 0%;
+    padding-top: 5px;
+    
+
+    .text-zone {
+        font-size: 12px;
+
+        .details {
+            li {
+                display: block;
+               
+            }
+
+            a {
+                text-decoration: none;
+            }
+        }
+
+        
+        
+        
+    }
+
+
+
+}
+
